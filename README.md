@@ -36,6 +36,10 @@ python3 ~/.codex/skills/.system/skill-installer/scripts/install-skill-from-githu
   --path ppt-visual-director
 ```
 
+### 直接下载
+
+下载 [ppt-visual-director-v1.0.0.zip](https://github.com/kbvincient998-pixel/ppt-visual-director/releases/latest/download/ppt-visual-director-v1.0.0.zip)，解压后将 `ppt-visual-director` 文件夹复制到 `~/.codex/skills/`。
+
 安装后，在新的 Codex 任务中调用：
 
 ```text
