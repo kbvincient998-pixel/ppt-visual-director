@@ -1,0 +1,4 @@
+interface:
+  display_name: "PowerPoint 视觉导演"
+  short_description: "用 IMAGE2IMAGE 驱动创意 PPT 美化与图文匹配"
+  default_prompt: "使用 $ppt-visual-director 基于参考稿和品牌素材，先制作样页，再完成一份图文高度匹配且关键内容可编辑的 PowerPoint。"
